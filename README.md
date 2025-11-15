@@ -113,7 +113,7 @@ head -n "$N"
 ```
 shows the top N entries.
 
-Requirements
+# Requirements
 
 /bin/sh
 
@@ -121,7 +121,7 @@ Standard POSIX utilities: du, sort, head, getopts
 
 No external dependencies are required.
 
-Notes
+# Notes
 
 The script handles multiple directories.
 
