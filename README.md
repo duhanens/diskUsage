@@ -1,7 +1,6 @@
 # Activity 2 – disk_usage.sh
 
-This script implements a simple disk usage reporting tool using standard
-POSIX commands. It prints the **N largest entries** under one or more
+It prints the **N largest entries** under one or more
 directories, optionally including both files and directories.
 
 The script is designed for **beginner-level shell scripting** and uses only
