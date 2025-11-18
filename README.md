@@ -128,7 +128,3 @@ The script handles multiple directories.
 If no directory is provided, usage is printed.
 
 All logic is implemented using beginner-level shell scripting techniques.
-
-Author
-
-Written as part of Activity 2 of the assignment.
