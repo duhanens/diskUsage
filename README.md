@@ -1,6 +1,8 @@
 # Activity 2 – disk_usage.sh
 
-It prints the **N largest entries** under one or more
+
+This script implements a simple disk usage reporting tool using common
+Unix command-line utilities. It prints the **N largest entries** under one or more
 directories, optionally including both files and directories.
 
 The script is designed for **beginner-level shell scripting** and uses only
@@ -116,7 +118,7 @@ shows the top N entries.
 
 /bin/sh
 
-Standard POSIX utilities: du, sort, head, getopts
+Standard Unix utilities: du, sort, head, getopts
 
 No external dependencies are required.
 
